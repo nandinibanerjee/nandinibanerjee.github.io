@@ -4,10 +4,10 @@ var myImage = document.querySelector('img');
 
 myImage.onclick = function() {
 	var mySrc = myImage.getAttribute('src');
-	if(mySrc === 'images/firefox-icon.png') {
-      myImage.setAttribute ('src','images/firefox2.png');
+	if(mySrc === 'images/Cisco_Blue-RGB_31px.png') {
+      myImage.setAttribute ('src','Blue_Duotone_Gradient-RGB_31px.png');
 	} else {
-	  myImage.setAttribute ('src','images/firefox-icon.png');
+	  myImage.setAttribute ('src','images/Cisco_Blue-RGB_31px.png');
 	}
 }
 
