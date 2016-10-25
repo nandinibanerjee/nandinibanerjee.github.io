@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Demo Page</title>
+	<link href="styles/style.css" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+  </head>
+  <body>
+    <img src="images/Cisco_Logo_no_TM_Cisco_Blue-RGB_31px.png" alt="Cisco Logo">
+	<h1><strong>Cisco Collaborative Knowledge</strong></h1>
+	<h2><strong>Admin Console</strong></h2>
+	<ul>
+	 <li><a href="#Users">Users</a></li>
+	 <li><a href="#Users">Preferences</a></li>
+	</ul>
+   <script src="scripts/main.js"></script>
+   </body>
+</html>
